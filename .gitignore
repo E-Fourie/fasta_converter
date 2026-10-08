@@ -1,6 +1,14 @@
+# macOS
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-DNA files/.DS_Store
-/DNA files
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sequence data (keep local)
+/DNA files/
+*.dna
+*.fa
+*.fasta
